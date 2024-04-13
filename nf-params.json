@@ -1,0 +1,11 @@
+{
+    "input": "01_mergedlanes\/Eliza1_R{1,2}.fastq.gz",
+    "outdir": "nf-core_analysis_0424",
+    "email": "ruben.martinezcuesta@helmholtz-munich.de",
+    "skip_krona": true,
+    "skip_spades": true,
+    "skip_spadeshybrid": true,
+    "skip_metaeuk": true,
+    "skip_maxbin2": true,
+    "skip_concoct": true
+}
